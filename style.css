@@ -11,17 +11,17 @@ body {
 }
 
 /* Background Image Div */
- .bg-image {
-    background: url('./static/video.mp4'); /* path to your background image */
+/*   .bg-image {
+    background: url('./static/video.mp4');
     background-size: cover;
     background-position: center;
-    height: 100vh; /* full viewport height */
-    width: 100%; /* full viewport width */
+    height: 100vh; 
+    width: 100%; 
     position: fixed;
     top: 0;
     left: 0;
-    z-index: -1; /* to position it behind other elements */
-} 
+    z-index: -1;
+}   */
 
 #bg-video {
     position: fixed;
